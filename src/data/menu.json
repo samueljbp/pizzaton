@@ -1,0 +1,22 @@
+{
+   "pizzas": [
+      {
+         "slug": "mussarela",
+         "name": "Mussarela",
+         "price": "R$ 30,00",
+         "photo": "/images/pizzas/pizza1.jpg"
+      },
+      {
+         "slug": "portuguesa",
+         "name": "Portuguesa",
+         "price": "R$ 40,00",
+         "photo": "/images/pizzas/pizza2.jpg"
+      },
+      {
+         "slug": "pepperoni",
+         "name": "Pepperoni",
+         "price": "R$ 50,00",
+         "photo": "/images/pizzas/pizza3.jpg"
+      }
+   ]
+}
